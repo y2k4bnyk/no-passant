@@ -2,6 +2,8 @@ No Passant
 
 Chess, but somebody fucked with the pieces.
 
+**this is basically chess960 for now, i'll edit it tomorrow
+
 No openings.
 No castling.
 No en passant.
