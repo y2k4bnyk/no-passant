@@ -1,6 +1,6 @@
 No Passant
 
-Chess, but somebody fucked with the pieces.
+Chess, but somebody fucked with the pieces (its me).
 
 **this is basically chess960 for now, i'll edit it tomorrow
 
